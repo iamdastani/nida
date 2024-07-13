@@ -48,7 +48,7 @@ def make_post_request(NIN):
         print('Response:', response.text)  # Print the response text in case of failure
 
 # Replace with the actual NIN
-NIN = '19930829531270000229'
+NIN = 'YOUR NIDA ID'
 make_post_request(NIN)
 ```
 
